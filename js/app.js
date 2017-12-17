@@ -40,6 +40,7 @@ particlesJS('particles-js',
           "height": 100
         }
       },
+	  
       "opacity": {
         "value": 0.5,
         "random": false,
