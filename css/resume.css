@@ -116,8 +116,9 @@ a {
 
 /* ---- particles.js container ---- */
 
-#particles-jscanvas{
+#particles-js canvas{
     position: absolute;
+	background-color: #b61924;
     width: 100%;
     height: 100%;
     z-index: -1;
